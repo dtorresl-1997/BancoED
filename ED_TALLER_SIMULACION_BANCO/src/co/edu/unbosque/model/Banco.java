@@ -10,7 +10,11 @@ public class Banco {
 		t1.start();
 		t2.start();
 		t3.start();
+		
+		System.out.println("PUSH");
 	}
+	
+	
 	
 
 }
